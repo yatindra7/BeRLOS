@@ -1,2 +1,2 @@
 # BeRLOS
- Apache Solr setup, and benchmarking util
+ Apache Solr setup, and benchmarking util.
